@@ -7,5 +7,8 @@ I have a shoddy website 😂
 
 Socials:  
 [htb](https://www.hackthebox.eu/profile/100846)  
+[linkedin](https://www.linkedin.com/in/zweeden/)  
 [twitter](https://twitter.com/ZWeed4U)  
 [instagram](https://www.instagram.com/zweed4u/)  
+
+Feel free to reach out or connect with me! 😃  
