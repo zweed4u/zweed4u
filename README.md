@@ -5,7 +5,7 @@ Repos here are to serve more as a "portfolio" of previous work; I like to think 
 I have a shoddy website 😂  
 [http://zweeden.dev](http://zweeden.dev)
 
-Socials:
+Socials:  
+[htb](https://www.hackthebox.eu/profile/100846)  
 [twitter](https://twitter.com/ZWeed4U)  
 [instagram](https://www.instagram.com/zweed4u/)  
-[htb](https://www.hackthebox.eu/profile/100846)
