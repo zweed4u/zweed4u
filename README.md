@@ -6,7 +6,7 @@ I have a shoddy website 😂
 [http://zweeden.dev](http://zweeden.dev)
 
 Socials:  
-[htb](https://www.hackthebox.eu/profile/100846)  
+[htb](https://app.hackthebox.com/profile/100846)  
 [linkedin](https://www.linkedin.com/in/zweeden/)  
 [twitter](https://twitter.com/ZWeed4U)  
 [instagram](https://www.instagram.com/zweed4u/)  
